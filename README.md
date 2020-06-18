@@ -1,4 +1,4 @@
-## **My implementations of projects in CS-50 Intro to AI with Python**
+## **My implementations of projects in CS-50 Introduction To AI With Python**
 ##### [Course link](https://cs50.harvard.edu/ai/2020/)
 
 ### Contents
