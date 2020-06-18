@@ -6,7 +6,7 @@
 * [Search](https://cs50.harvard.edu/ai/2020/weeks/0/)
   >
   * [Project-0A Degrees](Link)
-  * [Project-0B Tic-Tac-Toe](Link)
+  * [Project-0B Tic-Tac-Toe AI](Link)
   
 * [Knowledge](https://cs50.harvard.edu/ai/2020/weeks/1/)
   >
