@@ -15,7 +15,7 @@
 
 * **Uncertainity** [(Lecture Link)](https://cs50.harvard.edu/ai/2020/weeks/2/)
   >
-  * [Project-2A PageRank](Link)
-  * [Project-2B Heredity](Link)
+  * [Project-2A PageRank](https://github.com/divypandya/CS-50-AI-Projects/tree/master/2_Uncertainity/PageRank)
+  * [Project-2B Heredity](https://github.com/divypandya/CS-50-AI-Projects/tree/master/2_Uncertainity/Heredity)
 
 * **Optimization** [(Lecture Link)](https://cs50.harvard.edu/ai/2020/weeks/3/)
