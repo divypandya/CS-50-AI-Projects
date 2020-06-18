@@ -5,8 +5,8 @@
 >> 
 * [Search](https://cs50.harvard.edu/ai/2020/weeks/0/)
   >
-  * [Project-0A Degrees](Link)
-  * [Project-0B Tic-Tac-Toe AI](Link)
+  * [Project-0A Degrees](https://github.com/divypandya/CS-50-AI-Projects/tree/master/0_Search/Degrees)
+  * [Project-0B Tic-Tac-Toe AI](https://github.com/divypandya/CS-50-AI-Projects/tree/master/0_Search/tictactoe)
   
 * [Knowledge](https://cs50.harvard.edu/ai/2020/weeks/1/)
   >
