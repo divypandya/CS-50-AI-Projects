@@ -19,3 +19,5 @@
   * [Project-2B Heredity](https://github.com/divypandya/CS-50-AI-Projects/tree/master/2_Uncertainity/Heredity)
 
 * **Optimization** [(Lecture Link)](https://cs50.harvard.edu/ai/2020/weeks/3/)
+  >
+  * [Project-3 Crossword](https://github.com/divypandya/CS-50-AI-Projects/tree/master/3_Optimization/Crossword)
