@@ -21,3 +21,12 @@
 * **Optimization** [(Lecture Link)](https://cs50.harvard.edu/ai/2020/weeks/3/)
   >
   * [Project-3 Crossword](https://github.com/divypandya/CS-50-AI-Projects/tree/master/3_Optimization/Crossword)
+ 
+* **Learning** [(Lecture Link)](https://cs50.harvard.edu/ai/2020/weeks/4/)
+  >
+  * [Project-4a Shopping](https://github.com/divypandya/CS-50-AI-Projects/tree/master/4_Learning/Shopping)
+  * [Project-4b Nim](https://github.com/divypandya/CS-50-AI-Projects/tree/master/4_Learning/Nim)
+
+* **Neural Networks** [(Lecture Link)](https://cs50.harvard.edu/ai/2020/projects/5/traffic/)
+  >
+  * [Project-5 Traffic](https://github.com/divypandya/CS-50-AI-Projects/tree/master/5_NeuralNetworks/Traffic)
